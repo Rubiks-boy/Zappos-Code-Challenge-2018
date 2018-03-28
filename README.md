@@ -1,5 +1,5 @@
 
-My submission for the 2018 Zappos Code Challenge, placing me first.
+This is my submission for the 2018 Zappos Code Challenge, placing me first.
 
 The challenge was to program a caululator that, given a set of chefs and parameters, would find the winning chef in Gordon Ramsay's Hell's Kitchen.
 
